@@ -9,7 +9,15 @@ function App() {
   return (
     <>
       <div>
+<<<<<<< HEAD
         <h1>i have other heading</h1>
+=======
+<<<<<<< HEAD
+        <h1> have created a new heading</h1> 
+=======
+        <h1>i have created a new branch</h1>
+>>>>>>> 022308bd00704c231e1a483eef19f12bcfc602cf
+>>>>>>> 7b5cddbe1c246d0ba37be247cbab823d5c853123
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
